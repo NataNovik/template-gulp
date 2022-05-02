@@ -1,0 +1,19 @@
+{
+  "name": "template-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NataNovik/template-gulp.git"
+  },
+  "author": "NataNovik <natalyamihalovna88@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NataNovik/template-gulp/issues"
+  },
+  "homepage": "https://github.com/NataNovik/template-gulp#readme"
+}
